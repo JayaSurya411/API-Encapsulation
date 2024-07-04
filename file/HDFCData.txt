@@ -1,0 +1,3 @@
+Ravi,Ravi@101,10000
+Ramu,Ramu@102,15000
+Somu,Somu@103,25000
